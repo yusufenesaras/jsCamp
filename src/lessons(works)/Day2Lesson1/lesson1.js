@@ -65,8 +65,8 @@ const primeNumberOneThousandList = () => {
     }
 
 }
-// isFriendNumber(220,284)
-// primeNumber(3,4,5,6,7,3,24,234,345,34)
+isFriendNumber(220,284)
+//primeNumber(3,4,5,6,7,3,24,234,345,34)
 //findPerfectNumbers()
 //primeNumberOneThousandList()
 
