@@ -9,6 +9,6 @@ export default class CustomerRepository {
     return this.customers;
   }
   getCustomersById(id) {
-    return this.customers.find((u) => u.id === id);
+    return this.customers.find((c) => c.id === id);
   }
 }
