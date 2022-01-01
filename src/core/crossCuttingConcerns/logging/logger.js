@@ -3,7 +3,7 @@ export class BaseLogger{
         console.log("Default : " + data)
     }
 }
-
+//Loglama Simülasyonu
 export class ElasticLogger extends BaseLogger{
     log(data){
         console.log("Logged to Elastic" + data)
